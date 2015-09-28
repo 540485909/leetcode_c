@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1410851289 source:g:\software  project\leetcode\3sum\main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<map>
+	<algorithm>
+	<tr1/unordered_map>
+
