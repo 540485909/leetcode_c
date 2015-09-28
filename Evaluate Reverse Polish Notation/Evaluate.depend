@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1397307212 source:h:\software  project\leetcode\evaluate\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<cstring>
+	<stdio.h>
+	<string>
+	<stdlib.h>
+	<cassert>
+	<limits.h>
+

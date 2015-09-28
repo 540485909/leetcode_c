@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1427089878 source:d:\software project\leetcode\lettercombinationsofaphonenumber\main.cpp
+	<iostream>
+	<vector>
+	<map>
+

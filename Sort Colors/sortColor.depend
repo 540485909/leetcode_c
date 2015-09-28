@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1411377867 source:g:\software  project\leetcode\sortcolor\main.cpp
+	<iostream>
+	<algorithm>
+

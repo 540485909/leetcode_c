@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415506850 source:g:\software  project\leetcode\climbingstairs\main.cpp
+	<iostream>
+	<cstring>
+

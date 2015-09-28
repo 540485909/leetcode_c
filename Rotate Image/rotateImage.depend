@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1411041106 source:g:\software  project\leetcode\rotateimage\main.cpp
+	<iostream>
+	<vector>
+

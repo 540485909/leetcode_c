@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1404224046 source:g:\software  project\leetcode\palidromepartition\main.cpp
+	<iostream>
+	<vector>
+	<string>
+

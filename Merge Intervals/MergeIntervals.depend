@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1414734605 source:g:\software  project\leetcode\mergeintervals\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

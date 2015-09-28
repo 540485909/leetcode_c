@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1442373299 source:d:\software project\leetcode\kthsmallestelementinabst\main.cpp
+	<iostream>
+	<stack>
+

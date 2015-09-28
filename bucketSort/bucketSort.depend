@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1410496945 source:g:\software  project\leetcode\ bucketsort\main.cpp
+	<iostream>
+	<map>
+	<math.h>
+

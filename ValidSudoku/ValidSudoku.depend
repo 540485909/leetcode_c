@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1427013909 source:d:\software project\leetcode\validsudoku\main.cpp
+	<iostream>
+	<vector>
+

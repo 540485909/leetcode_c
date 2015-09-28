@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1405836637 source:g:\software  project\leetcode\restoreipaddress\main.cpp
+	<iostream>
+	<vector>
+

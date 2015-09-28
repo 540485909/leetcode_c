@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1408930595 source:g:\software  project\leetcode\decodeway\main.cpp
+	<iostream>
+	<cstring>
+	<stdlib.h>
+
