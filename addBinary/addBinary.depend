@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1410358962 source:g:\software  project\leetcode\addbinary\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+

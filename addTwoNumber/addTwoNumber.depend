@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1394525373 source:h:\software  project\leetcode\addtwonumber\main.cpp
+	<iostream>
+	<cstring>
+	<vector>
+	<map>
+	<math.h>
+	<stack>
+	<algorithm>
+
