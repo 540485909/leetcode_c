@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1405143419 source:g:\software  project\leetcode\intervingstring\main.cpp
+	<iostream>
+	<algorithm>
+
