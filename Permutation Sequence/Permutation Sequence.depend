@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1443948283 source:d:\software project\leetcode\permutation sequence\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstring>
+
