@@ -33,11 +33,11 @@ public:
 };
 int main()
 {
-	int a[] = { 2, 3, 1, 2, 4, 3 };
+	/*int a[] = { 2, 3, 1, 2, 4, 3 };
 	vector<int> nums(a, a + 6);
 
 	Solution s;
 	cout << s.minSubArrayLen(4, nums);
 	cout << s.minSubArrayLen(2, nums);
-	return 0;
+	return 0;*/
 }
