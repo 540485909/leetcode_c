@@ -1,0 +1,6 @@
+#ignore bin file
+bin
+obj
+*.cbp
+*.layout
+
