@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1415078588 source:g:\software  project\leetcode\spiralmatrix\main.cpp
-	<iostream>
-	<vector>
-	<math.h>
-

@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1411832001 source:g:\software  project\leetcode\plusone\main.cpp
-	<iostream>
-	<vector>
-	<algorithm>
-

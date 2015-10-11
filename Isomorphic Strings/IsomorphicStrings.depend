@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1430627591 source:d:\software project\leetcode\isomorphicstrings\main.cpp
-	<iostream>
-	<algorithm>
-	<string>
-	<map>
-

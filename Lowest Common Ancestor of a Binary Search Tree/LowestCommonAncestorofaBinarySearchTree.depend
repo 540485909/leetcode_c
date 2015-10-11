@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1436680159 source:d:\software project\leetcode\lowestcommonancestorofabinarysearchtree\main.cpp
-	<iostream>
-	<stack>
-	<vector>
-

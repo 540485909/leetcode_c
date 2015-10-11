@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1436084927 source:d:\software project\leetcode\basiccaculator\main.cpp
-	<iostream>
-	<stack>
-	<vector>
-	<sstream>
-
