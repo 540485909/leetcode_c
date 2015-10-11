@@ -1,0 +1,25 @@
+  int lengthOfLastWord(const char *s) {
+
+        int length=0;
+        int lastword=length;
+       int i=0;
+       char pre='\0';
+        while(s[i]!='\0')
+        {
+            if(s[i]!=' ')
+            {
+                length++;
+            }
+            else if(pre!=' ')
+            {
+                lastword=length;
+                length=0;
+            }
+            pre=s[i];
+            
+            i++;
+        }
+      
+        if(i>=1&&s[i-1]==' ')return lastword;
+        return length;
+    }
