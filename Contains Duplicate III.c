@@ -39,8 +39,8 @@ public:
 	}
 };
 int main(){
-	Solution s;
-	/*int arr[] = { 12, 10, 2, 3, 14, 7, 8, 20, 3, 5 };
+	/*Solution s;
+	int arr[] = { 12, 10, 2, 3, 14, 7, 8, 20, 3, 5 };
 	vector<int> vec(arr,arr+10);
 	int arr[] = {-1, 2147483647};
 	vector<int> vec(arr, arr + 2);
